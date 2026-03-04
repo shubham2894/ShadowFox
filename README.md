@@ -13,7 +13,6 @@ These tasks focus on building a strong foundation in Python programming by imple
 - Lists and List Operations
 - Conditional Statements (if-else)
 - Loops (for loop)
-- Dictionaries and Data Handling
 
 ---
 
@@ -30,10 +29,10 @@ These tasks focus on building a strong foundation in Python programming by imple
 - `speed_calculation.py` – Calculates speed using distance and time.
 
 ### 3️⃣ Lists
-- `justice_league_list_operations.py` – Performs operations like adding, removing, sorting, and updating list elements.
+- `Justice League list.py` – Performs operations like adding, removing, sorting, and updating list elements.
 
 ### 4️⃣ If Conditions
-- `bmi_category_checker.py` – Determines BMI category based on user input.
+- `BMI Calculator.py` – Determines BMI category based on user input.
 - `city_country_identifier.py` – Identifies which country a city belongs to.
 - `same_country_checker.py` – Checks whether two cities belong to the same country.
 
